@@ -6,7 +6,8 @@ using System.ComponentModel;
 #pragma warning disable CS0436 // Type conflicts with imported type
 namespace Symbiosis.Json.Specs.Ion
 {
-	public class Link : Etaggable
+	public class Link 
+		: Etaggable
 	{
 		[JsonProperty(Order = -4, NullValueHandling = NullValueHandling.Ignore, DefaultValueHandling = DefaultValueHandling.Ignore)]
 		public string Href { get; set; }
