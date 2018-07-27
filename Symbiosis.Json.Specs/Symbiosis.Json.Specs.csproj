@@ -12,16 +12,12 @@
 		<RepositoryUrl>https://github.com/sicsbd/JsonSpecs</RepositoryUrl>
 		<AssemblyVersion>1.0.1.0</AssemblyVersion>
 		<FileVersion>1.0.1.0</FileVersion>
+		<Version>1.0.1</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
 		<None Remove=".gitattributes" />
 		<None Remove=".gitignore" />
-	</ItemGroup>
-
-	<ItemGroup>
-		<Folder Include="AspNetCore\Caching\" />
-		<Folder Include="Extensions\Options\" />
 	</ItemGroup>
 
 	<ItemGroup>
