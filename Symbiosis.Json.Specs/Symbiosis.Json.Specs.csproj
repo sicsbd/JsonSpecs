@@ -10,9 +10,9 @@
 		<PackageLicenseUrl>https://github.com/sicsbd/JsonSpecs/blob/master/LICENSE</PackageLicenseUrl>
 		<PackageProjectUrl>https://github.com/sicsbd/JsonSpecs</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/sicsbd/JsonSpecs</RepositoryUrl>
-		<AssemblyVersion>1.0.2.0</AssemblyVersion>
-		<FileVersion>1.0.2.0</FileVersion>
-		<Version>1.0.2</Version>
+		<AssemblyVersion>1.0.3.0</AssemblyVersion>
+		<FileVersion>1.0.3.0</FileVersion>
+		<Version>1.0.3</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
